@@ -1,0 +1,4 @@
+prefix: 'mHomSap'
+ref: '/path/to/reference/fasta'
+hic_dir: '/path/to/folder/containing/hic/files/'
+tmp_dir: '/path/to/temp/data/folder/must/already/exist/'
