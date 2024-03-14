@@ -1,4 +1,4 @@
-nextdenovo_correctedReads.fasta.split/nextdenovo_correctedReads.part_001.fasta
-nextdenovo_correctedReads.fasta.split/nextdenovo_correctedReads.part_002.fasta
-nextdenovo_correctedReads.fasta.split/nextdenovo_correctedReads.part_003.fasta
-nextdenovo_correctedReads.fasta.split/nextdenovo_correctedReads.part_004.fasta
+/scratch/brown/asm_mBraTor/assembly/Flye/run_07/L112870.Final_DC.dedup.fq.gz
+/scratch/brown/asm_mBraTor/assembly/Flye/run_07/L117834.Final_DC.dedup.fq.gz
+/scratch/brown/asm_mBraTor/assembly/Flye/run_07/L125956.dc.primerRemoved.0--0.dedup.fastq.gz
+/scratch/brown/asm_mBraTor/assembly/Flye/run_07/L125957.merged.dc.primerRemoved.dedup.fastq.gz
