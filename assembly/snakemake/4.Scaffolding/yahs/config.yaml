@@ -1,12 +1,11 @@
 SAMPLES:
-    ["L1",
-    "L2"]
+    ["/scratch/brown/asm_mTriMan/data/hic/SRR8616893"]
 
 prefix:
-    test
+    mTriMan 
 
 threads:
-    4 
+    24 
 
 input_assembly:
-    asm_mBraTor.flye.purged.fa
+     /scratch/brown/asm_mTriMan/assembly/ref/ncbi_dataset/data/GCA_030013775.1/GCA_030013775.1_ASM3001377v1_genomic.fna
